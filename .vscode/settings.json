@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "usb_desc.h": "c",
+        "usb_lib.h": "c",
+        "usb_def.h": "c",
+        "usb_pwr.h": "c",
+        "usb_prop.h": "c",
+        "queue.h": "c",
+        "uart_log.h": "c"
+    }
+}
