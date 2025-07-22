@@ -1,5 +1,5 @@
 # STM32 Makefile
-
+这是一个stm32f103c8tx的键盘鼠标和虚拟串口的复合设备,使用freeRTOS和stm32标准库。
 ### build project
 
 ```
